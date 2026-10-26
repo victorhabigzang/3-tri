@@ -1,55 +1,19 @@
 criarCartao(
     `Geografia`,
+    `Qual é o maior país do mundo em território?`,
+    `Rússia`
+)
+
+criarCartao(
+    `Geografia`,
     `Qual é a capital do Brasil?`,
     `Brasília`
 )
 
 criarCartao(
-    `História`,
-    `Quem descobriu o Brasil em 1500?`,
-    `Pedro Álvares Cabral`
-)
-
-criarCartao(
-    `Ciências`,
-    `Qual é o planeta conhecido como Planeta Vermelho?`,
-    `Marte`
-)
-
-criarCartao(
-    `Matemática`,
-    `Quanto é 8 × 7?`,
-    `56`
-)
-
-criarCartao(
-    `Português`,
-    `Qual é o plural de "cidadão"?`,
-    `Cidadãos`
-)
-
-criarCartao(
     `Geografia`,
-    `Qual é o maior país do mundo em extensão territorial?`,
-    `Rússia`
-)
-
-criarCartao(
-    `Ciências`,
-hg    `Qual órgão do corpo humano é responsável por bombear o sangue?`,
-    `Coração`
-)
-
-criarCartao(
-    `História`,
-    `Em que ano foi proclamada a Independência do Brasil?`,
-    `1822`
-)
-
-criarCartao(
-    `Matemática`,
-    `Qual é a raiz quadrada de 81?`,
-    `9`
+    `Quantos continentes existem no modelo de seis continentes usado no Brasil?`,
+    `6`
 )
 
 criarCartao(
@@ -59,13 +23,49 @@ criarCartao(
 )
 
 criarCartao(
-    `Ciências`,
-    `Qual gás as plantas absorvem durante a fotossíntese?`,
-    `Gás carbônico`
+    `Geografia`,
+    `Em qual continente fica o Egito?`,
+    `África`
 )
 
 criarCartao(
-    `Conhecimentos Gerais`,
-    `Quantos dias tem um ano bissexto?`,
-    `366`
+    `Geografia`,
+    `Qual é o rio mais extenso do Brasil?`,
+    `Rio Amazonas`
+)
+
+criarCartao(
+    `Geografia`,
+    `Qual linha imaginária divide a Terra em hemisférios Norte e Sul?`,
+    `Linha do Equador`
+)
+
+criarCartao(
+    `Geografia`,
+    `Qual é o menor país do mundo em território?`,
+    `Vaticano`
+)
+
+criarCartao(
+    `Geografia`,
+    `Qual é o bioma predominante na região central do Brasil?`,
+    `Cerrado`
+)
+
+criarCartao(
+    `Geografia`,
+    `Qual é a capital da Argentina?`,
+    `Buenos Aires`
+)
+
+criarCartao(
+    `Geografia`,
+    `Qual é a camada mais externa e sólida da Terra?`,
+    `Crosta terrestre`
+)
+
+criarCartao(
+    `Geografia`,
+    `Qual é o maior continente do mundo em área territorial?`,
+    `Ásia`
 )
